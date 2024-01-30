@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAderson23
 - 👀 I’m interested in WEB DESIGNER-DEVELOPER/VIDEO GAMES
-- 🌱 I’m currently learning C/C++/Html/Css/SQL.
+- 🌱 I’m currently learning C/C++/HTML/CSS/SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
